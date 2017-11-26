@@ -1,93 +1,191 @@
-language.name=Russian
+language.name=Russian by kellixon (MC 1.12.2, BiblioCraft 2.4.3, sourse - en_US.lang, 26 November 2017).
 language.region=RU
 language.code=ru_RU
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
-item.paneler.panels=Покрытие:
 
-//BiblioCraft v1.11.2 additions
-gui.recipe.disabled=Сборка с помощью книги-плана отключена.
-stockcatalog.inventory.notfound=Контейнер не назван
+item.paneler.panels=Панели:
 
-// BiblioCraft v1.11.0 additions
-item.StockroomCatalog.name=Складской каталог
-jds.tileentitychest=Каркасный сундук
-FramedChest.name=Каркасный сундук
-gui.catalog.close=Закрыть
-gui.catalog.count=Количество
-gui.catalog.names=Название Предмета / Блока
-screwgun.selected.chest1=Первый сундук выбран.
-screwgun.selected.chest2=Попытка соедин./разъедин. сундуки.
-gui.left=Лево
-gui.right=Право
-gui.craft=Сбор
-gui.recipe.crafted=Успешно собрано
-gui.recipe.failed=Удаление ингредиентов не удалось
-gui.recipe.invalid=Неверный план
-gui.recipe.missing=Отсутствуют ингредиенты
-gui.recipe.wrong=Что-то не так. Не найдена книга-план.
-
-
-gui.clock.pulse=Импульс
-gui.clock.solid=Постоянн.
-
-jds.tileentityarmorstand=Стойка для брони
+//Updated localizations for BiblioCraft v2.0
+typesetting.selectbook=Выбранная книга
 jds.tileentitybookcase=Книжный шкаф
-jds.teclipboard=Планшет
-jds.tileentitycookiejar=Банка для печенья
-jds.tileentitywoodlabel=Бирка
-jds.tileentitygenericshelf=Полка
-jds.tileentitymapframe=Рамка для карты
-jds.tefurnituretile=Мебельный панельщик
-jds.tileentityfancyworkbench=Красивый верстак
-jds.tileentityfancysign=Красивая табличка
-jds.tileentitydiscrack=Стойка для пластинок
-jds.tileentitydinnerplate=Обеденная тарелка
-jds.tileentitypotionshelf=Полка для зелий
-jds.tileentitywritingdesk=Стол
-jds.tileentityweaponcase=Витрина
-jds.tileentitytoolrack=Стеллаж для инструментов
-jds.tileentitytypewriter=Печатная машинка
-jds.tileentitytypemachine=Типографский стол
-jds.tileentitytable=Стол
-jds.tileentityswordpedestal=Пьедестал для меча
-jds.tileentityseat=Сиденье
-jds.tileentityprintpress=Печатный станок
-jds.tileentitypaintpress=Картинный станок
-jds.tileentitypainting=Картина
 
-// BiblioCraft 1.10 additions
-item.plumbline.depth=Глубина
-item.PlumbLine.name=Отвес
-item.FramingSaw.name=Пила
-item.FramingBoard.name=Каркасная доска
-item.FramingSheet.name=Каркасный лист
+item.creativebookcase.randombooks=Случайно заполнено книгами.
+item.creativebookcase.mode=Только творческий режим.
 
-OakPaneler.name=Дубовый мебельный панельщик
-SprucePaneler.name=Еловый мебельный панельщик
-BirchPaneler.name=Берёзовый мебельный панельщик
-JunglePaneler.name=Мебельный панельщик из тропического дерева
-AcaciaPaneler.name=Мебельный панельщик из акации
-OldOakPaneler.name=Мебельный панельщик из тёмного дуба
-FramedPaneler.name=Каркасный мебельный панельщик
+darkoakBookcase.name=Книжный шкаф из темного дуба
+framedBookcase.name=Каркасный книжный шкаф
+oakBookcaseCreative.name=Творческий книжный шкаф из дуба
+spruceBookcaseCreative.name=Творческий книжный шкаф из ели
+birchBookcaseCreative.name=Творческий книжный шкаф из березы
+jungleBookcaseCreative.name=Творческий книжный шкаф из тропического дерева
+acaciaBookcaseCreative.name=Творческий книжный шкаф из акации
+darkoakBookcaseCreative.name=Творческий книжный шкаф из темного дуба
+framedBookcaseCreative.name=Каркасный творческий книжный шкаф
+darkoakShelf.name=Темный дуб
+oakFurniturePaneler.name=Мебельный панельщик из дуба
+spruceFurniturePaneler.name=Мебельный панельщик из ели
+birchFurniturePaneler.name=Мебельный панельщик из березы
+jungleFurniturePaneler.name=Мебельный панельщик из тропического дерева
+acaciaFurniturePaneler.name=Мебельный панельщик из акации
+darkoakFurniturePaneler.name=Мебельный панельщик из темного дуба
+framedFurniturePaneler.name=Каркасный мебельный панельщик
+oakFramedChest.name=Каркасный сундук из дуба
+spruceFramedChest.name=Каркасный сундук из ели
+birchFramedChest.name=Каркасный сундук из березы
+jungleFramedChest.name=Каркасный сундук из тропического дерева
+acaciaFramedChest.name=Каркасный сундук из акации
+darkoakFramedChest.name=Каркасный сундук из темного дуба
+framedFramedChest.name=Каркасный сундук
+oakFancySign.name=Красивая табличка из дуба
+jungleFancySign.name=Красивая табличка из тропического дерева
+darkoakFancySign.name=Красивая табличка из темного дуба
+framedFancySign.name=Каркасная красивая табличка
+spruceFancySign.name=Красивая табличка из ели
+birchFancySign.name=Красивая табличка из березы
+acaciaFancySign.name=Красивая табличка из акации
+darkoakFancyWorkbench.name=Верстак из темного дуба
+darkoakPotionShelf.name=Полка для зелий из темного дуба
+oakToolRack.name=Стеллаж для инструментов из дуба
+jungleToolRack.name=Стеллаж для инструментов из тропического дерева
+darkoakToolRack.name=Стеллаж для инструментов из темного дуба
+framedToolRack.name=Каркасный стеллаж для инструментов
+spruceToolRack.name=Стеллаж для инструментов из ели
+birchToolRack.name=Стеллаж для инструментов из березы
+acaciaToolRack.name=Стеллаж для инструментов из акации
+darkoakLabel.name=Бирка из темного дуба
+oakDesk.name=Письменный стол из дуба
+jungleDesk.name=Письменный стол из тропического дерева
+spruceDesk.name=Письменный стол из ели
+birchDesk.name=Письменный стол из березы
+acaciaDesk.name=Письменный стол из акации
+darkoakDesk.name=Письменный стол из темного дуба
+darkoakTable.name=Стол из темног одуба
+darkoakSeat.name=Сиденье из темного дуба
+darkoakClock.name=Часы из темного дуба
+darkoakCase.name=Витрина из темного дуба
+darkoakMapFrame.name=Рамка для карты из темного дуба
+oakPaintingFrameFlat.name=Картинная рамка из дуба
+sprucePaintingFrameFlat.name=Картинная рамка из ели
+birchPaintingFrameFlat.name=Картинная рамка из березы
+junglePaintingFrameFlat.name=Картинная рамка из тропического дерева
+acaciaPaintingFrameFlat.name=Картинная рамка из акации
+darkoakPaintingFrameFlat.name=Картинная рамка из темного дуба
+framedPaintingFrameFlat.name=Каркасная картинная рамка
 
-FramedClock.name=Каркасные часы
-FrameBookcase.name=Каркасный книжный шкаф
-FramedWorkbench.name=Каркасный красивый верстак
-FramedSign.name=Каркасная красивая табличка
-FramedShelf.name=Каркасная полка
-FramedPotionShelf.name=Каркасная полка для зелий
-FramedLabel.name=Каркасная бирка
-FramedMapFrame.name=Каркасная рамка для карты
-FramedPaintingFrame.name=Каркасная картинная рамка
-FramedDesk.name=Каркасный письменный стол
-FramedWeaponRack.name=Каркасный стеллаж для инструментов
-FramedCase.name=Каркасная витрина
-FramedTable.name=Каркасный стол
-FramedSeat.name=Каркасный стул
-item.seatBack.FramedSeatBack.name=Каркасная спинка стула
+oakPaintingFrameSimple.name=Картинная рамка из дуба
+sprucePaintingFrameSimple.name=Картинная рамка из ели
+birchPaintingFrameSimple.name=Картинная рамка из березы
+junglePaintingFrameSimple.name=Картинная рамка из тропического дерева
+acaciaPaintingFrameSimple.name=Картинная рамка из акации
+darkoakPaintingFrameSimple.name=Картинная рамка из темного дуба
+framedPaintingFrameSimple.name=Каркасная картинная рамка
+
+oakPaintingFrameMiddle.name=Картинная рамка из дуба
+sprucePaintingFrameMiddle.name=Картинная рамка из ели
+birchPaintingFrameMiddle.name=Картинная рамка из березы
+junglePaintingFrameMiddle.name=Картинная рамка из тропического дерева
+acaciaPaintingFrameMiddle.name=Картинная рамка из акации
+darkoakPaintingFrameMiddle.name=Картинная рамка из темного дуба
+framedPaintingFrameMiddle.name=Каркасная картинная рамка
+
+oakPaintingFrameFancy.name=Картинная рамка из дуба
+sprucePaintingFrameFancy.name=Картинная рамка из ели
+birchPaintingFrameFancy.name=Картинная рамка из березы
+junglePaintingFrameFancy.name=Картинная рамка из тропического дерева
+acaciaPaintingFrameFancy.name=Картинная рамка из акации
+darkoakPaintingFrameFancy.name=Картинная рамка из темного дуба
+framedPaintingFrameFancy.name=Каркасная картинная рамка
+
+oakPaintingFrameBorderless.name=Картинная рамка из дуба
+sprucePaintingFrameBorderless.name=Картинная рамка из ели
+birchPaintingFrameBorderless.name=Картинная рамка из березы
+junglePaintingFrameBorderless.name=Картинная рамка из тропического дерева
+acaciaPaintingFrameBorderless.name=Картинная рамка из акации
+darkoakPaintingFrameBorderless.name=Картинная рамка из темного дуба
+framedPaintingFrameBorderless.name=Каркасная картинная рамка
+
+tile.BiblioCraft:PaintingPress.name=Картинный станок
+swordpedestal.silver=Светло-серая отделка
+swordpedestal.light_blue=Светло-синяя отделка
+tile.BiblioCraft:Bell.name=Настольный звонок
+oakArmorStand.name=Стойка для брони из дуба
+spruceArmorStand.name=Стойка для брони из ели
+birchArmorStand.name=Стойка для брони из березы
+jungleArmorStand.name=Стойка для брони из тропического дерева
+acaciaArmorStand.name=Стойка для брони из акации
+darkoakArmorStand.name=Стойка для брони из темного дуба
+framedArmorStand.name=Каркасная стойка для брони
+tile.BiblioCraft:TypesettingTable.name=Типографский стол
+tile.BiblioCraft:PrintingPress.name=Печатный станок
+tile.BiblioCraft:CookieJar.name=Банка для печенья
+tile.BiblioCraft:DinnerPlate.name=Обеденная тарелка
+tile.BiblioCraft:DiscRack.name=Стойка для пластинок
+item.maptool.name=Составленный компас
+
+item.seatback1.OakSeatBack.name=Спинка стула из дуба
+item.seatback1.SpruceSeatBack.name=Спинка стула из ели
+item.seatback1.BirchSeatBack.name=Спинка стула из березы
+item.seatback1.JungleSeatBack.name=Спинка стула из тропического дерева
+item.seatback1.AcaciaSeatBack.name=Спинка стула из акации
+item.seatback1.OldOakSeatBack.name=Спинка стула из темного дуба
+item.seatback1.FramedSeatBack.name=Каркасная спинка стула
+
+item.seatback2.OakSeatBack.name=Спинка стула из дуба
+item.seatback2.SpruceSeatBack.name=Спинка стула из ели
+item.seatback2.BirchSeatBack.name=Спинка стула из березы
+item.seatback2.JungleSeatBack.name=Спинка стула из тропического дерева
+item.seatback2.AcaciaSeatBack.name=Спинка стула из акации
+item.seatback2.OldOakSeatBack.name=Спинка стула из темного дуба
+item.seatback2.FramedSeatBack.name=Каркасная спинка стула
+
+item.seatback3.OakSeatBack.name=Спинка стула из дуба
+item.seatback3.SpruceSeatBack.name=Спинка стула из ели
+item.seatback3.BirchSeatBack.name=Спинка стула из березы
+item.seatback3.JungleSeatBack.name=Спинка стула из тропического дерева
+item.seatback3.AcaciaSeatBack.name=Спинка стула из акации
+item.seatback3.OldOakSeatBack.name=Спинка стула из темного дуба
+item.seatback3.FramedSeatBack.name=Каркасная спинка стула
+
+item.seatback4.OakSeatBack.name=Спинка стула из дуба
+item.seatback4.SpruceSeatBack.name=Спинка стула из ели
+item.seatback4.BirchSeatBack.name=Спинка стула из березы
+item.seatback4.JungleSeatBack.name=Спинка стула из тропического дерева
+item.seatback4.AcaciaSeatBack.name=Спинка стула из акации
+item.seatback4.OldOakSeatBack.name=Спинка стула из темного дуба
+item.seatback4.FramedSeatBack.name=Каркасная спинка стула
+
+item.seatback5.OakSeatBack.name=Спинка стула из дуба
+item.seatback5.SpruceSeatBack.name=Спинка стула из ели
+item.seatback5.BirchSeatBack.name=Спинка стула из березы
+item.seatback5.JungleSeatBack.name=Спинка стула из тропического дерева
+item.seatback5.AcaciaSeatBack.name=Спинка стула из акации
+item.seatback5.OldOakSeatBack.name=Спинка стула из темного дуба
+item.seatback5.FramedSeatBack.name=Каркасная спинка стула
+
+stockcatalog.inventory.notfound=Отсутствует имя инвентаря
+
+/// End of updates for BiblioCraft v2.0.0
+
+
+item.StockroomCatalog.name=Каталог складских помещений
+framedChest.name=Каркасный сундук
+screwgun.selected.chest1=Первый сундук выбран.
+screwgun.selected.chest2=Попытка соединить/разъединить сундуки.
+
+framedClock.name=Каркасные часы
+framedFancyWorkbench.name=Каркасный красивый верстак
+framedSign.name=Каркасная красивая табличка
+framedShelf.name=Каркасная полка
+framedPotionShelf.name=Каркасная полка для зелий
+framedLabel.name=Каркасная бирка
+framedMapFrame.name=Каркасная рамка для карты
+framedDesk.name=Каркасный письменный стол
+framedCase.name=Каркасная витрина
+framedTable.name=Каркасный стол
+framedSeat.name=Каркасный стул
 
 gui.painting.showFrame=Показать рамку
 gui.painting.hideFrame=Спрятать рамку
@@ -95,88 +193,10 @@ gui.painting.hideFrame=Спрятать рамку
 screwgun.selected.desk1=Первый стол выбран.
 screwgun.selected.desk2=Попытка присоединения/отсоединения столов.
 
-// BiblioCraft 1.9 additions
 item.AtlasBook.name=Атлас
 item.AtlasPlate.name=Страница атласа
 item.DeathCompass.name=Вечный компас
 enchant.deathcompass=Вечный компас
-gui.atlas.zoom=Масштаб
-gui.atlas.center=Автоцентровка
-gui.atlas.create=Автопометки
-gui.atlas.mapXcenter=Центр карты по X:
-gui.atlas.mapZcenter=Центр карты по Z:
-gui.atlas.mapZoom=Масштаб карты:
-gui.atlas.yes=Да
-gui.atlas.no=Нет
-gui.atlas.atlas=Атлас
-
-gui.atlas.select.tt1=Режим выбора меток
-gui.atlas.select.tt2=Наведите на метку
-gui.atlas.select.tt3=затем нажмите ЛКМ
-gui.atlas.select.tt4=для выбора метки.
-gui.atlas.select.tt5=Зажмите Ctrl и наведите на карту,
-gui.atlas.select.tt6=чтобы увидеть коорд-ты реального мира.
-gui.atlas.select.tt7=Нажмите Ctrl + ЛКМ
-gui.atlas.select.tt8=для выбора точки на карте.
-
-gui.atlas.edit.tt1=Режим правки меток
-gui.atlas.edit.tt2=Нажмите на метку, чтобы изменить
-gui.atlas.edit.tt3=её название и цвет
-gui.atlas.edit.tt4=или удалить её с карты.
-gui.atlas.edit.tt5=Чтобы быстро удалить метку,
-gui.atlas.edit.tt6=нажмите Shift + ЛКМ на метке.
-
-gui.atlas.add.tt1=Режим установки меток
-gui.atlas.add.tt2=Нажмите на карту, чтобы
-gui.atlas.add.tt3=добавить новую метку.
-gui.atlas.add.tt4=Появится меню, где Вы сможете
-gui.atlas.add.tt5=выбрать название и цвет.
-gui.atlas.add.tt6=Нажмите Shift + ЛКМ, чтобы
-gui.atlas.add.tt7=добавить на карту метку
-gui.atlas.add.tt8=случайного цвета и названия.
-
-gui.atlas.switchtoinv=Переключить на окно инвентаря.
-gui.atlas.switchtoatlas=Переключить на окно карты.
-
-gui.atlas.autocenter.tt1=Если включено, атлас будет
-gui.atlas.autocenter.tt2=искать в инвентаре подходящую
-gui.atlas.autocenter.tt3=карту, на которой указано
-gui.atlas.autocenter.tt4=Ваше местоположение на
-gui.atlas.autocenter.tt5=выбранном масштабе.
-
-gui.atlas.autocreate.tt1=Если включено, создаёт карты
-gui.atlas.autocreate.tt2=из чистых, забирая их из Вашего
-gui.atlas.autocreate.tt3=инвентаря. Если автоцентровка 
-gui.atlas.autocreate.tt4=не может найти подходящую карту, 
-gui.atlas.autocreate.tt5=то создаётся новая карта
-gui.atlas.autocreate.tt6=такого же масштаба, как и
-gui.atlas.autocreate.tt7=последняя, выбранная Вами.
-
-gui.atlas.autocreate.tt8=Для работы этого режима должна
-gui.atlas.autocreate.tt9=быть включена автоцентровка.
-
-gui.atlas.transfer=Перенос меток
-gui.atlas.transfer.cancel=Отмена
-gui.atlas.transfer.from=С атласа на рамку для карт
-gui.atlas.transfer.to=С рамки для карт на атлас
-
-gui.compass.currentlocation=Местоположение
-
-gui.paintpress.page=Стр.
-gui.paintpress.of=из
-
-item.TesterItem.name=Тестер имён
-gui.testeritem.name=ItemStack Name Tester    //<-- Можно не переводить
-gui.testeritem.display=Отображаемое имя:
-gui.testeritem.unlocal=Нелокализованное имя:
-// end of 1.9 additions
-
-// All BiblioCraft 1.8 additions and changes //
-gui.clock.chimesound=Звук звонка
-gui.clock.ticksound=Тикающий звук
-gui.clock.redstone=Красный камень
-gui.clock.chime=Звонок
-gui.clock.presets=Установки
 
 screwgun.selected.painting1=Первая картина выбрана
 screwgun.selected.painting2=Вторая картина выбрана
@@ -184,103 +204,11 @@ screwgun.selected.clock1=Первые часы выбраны
 screwgun.selected.clock2=Вторые часы выбраны
 drill.failed=Соединение не удалось
 
-item.PaintingCanvas.name=Холст для рисования
-tile.BiblioPaintPress.name=Картинный станок
-
-gui.paintpress.transfer=Напечатать
-gui.paintpress.vanilla=Внутриигровые
-gui.paintpress.custom=Другие
-
-gui.painting.scale=Размер
-gui.painting.resolution=Разрешение
-gui.painting.aspectRatio=Соотношение сторон
-gui.painting.size=Размер картины
-gui.painting.rotation=Поворот
-gui.painting.corner=Главный угол
-
-OakPaintingFrame.name=Дубовая картинная рамка
-SprucePaintingFrame.name=Еловая картинная рамка
-BirchPaintingFrame.name=Берёзовая картинная рамка
-JunglePaintingFrame.name=Картинная рамка из тропического дерева
-AcaciaPaintingFrame.name=Картинная рамка из акации
-OldOakPaintingFrame.name=Картинная рамка из тёмного дуба
-
 paintingFrame.0tier=Без рамки
 paintingFrame.1tier=Рамка
 paintingFrame.2tier=Двойная рамка
 paintingFrame.3tier=Тройная рамка
 paintingFrame.4tier=Комплексная рамка
-
-OakClock.name=Дубовые часы
-SpruceClock.name=Еловые часы
-BirchClock.name=Берёзовые часы
-JungleClock.name=Часы из тропического дерева
-AcaciaClock.name=Часы из акации
-OldOakClock.name=Часы из тёмного дуба
-
-WhiteTypewriter.name=Белая печатная машинка
-LightGrayTypewriter.name=Светло-серая печатная машинка
-GrayTypewriter.name=Серая печатная машинка
-BlackTypewriter.name=Чёрная печатная машинка
-RedTypewriter.name=Красная печатная машинка
-OrangeTypewriter.name=Оранжевая печатная машинка
-YellowTypewriter.name=Жёлтая печатная машинка
-LimeTypewriter.name=Лаймовая печатная машинка
-GreenTypewriter.name=Зелёная печатная машинка
-CyanTypewriter.name=Бирюзовая печатная машинка
-LightBlueTypewriter.name=Светло-синяя печатная машинка
-BlueTypewriter.name=Синяя печатная машинка
-PurpleTypewriter.name=Фиолетовая печатная машинка
-MagentaTypewriter.name=Сиреневая печатная машинка
-PinkTypewriter.name=Розовая печатная машинка
-BrownTypewriter.name=Коричневая печатная машинка
-
-// End of 1.8 additions and changes // 
-
-
-// All BiblioCraft 1.7 additions and changes///
-gui.recipe.areyousure=Вы уверены?
-gui.recipe.finalize=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
-gui.recipe.description=Добавить описание.
- 
-swordpedestal.name=Пьедестал для меча
-swordpedestal.white=Белая отделка
-swordpedestal.orange=Оранжевая отделка
-swordpedestal.magenta=Сиреневая отделка
-swordpedestal.lightblue=Светло-синяя отделка
-swordpedestal.yellow=Жёлтая отделка
-swordpedestal.lime=Лаймовая отделка
-swordpedestal.pink=Розовая отделка
-swordpedestal.gray=Серая отделка
-swordpedestal.lightgray=Светло-серая отделка
-swordpedestal.cyan=Бирюзовая отделка
-swordpedestal.purple=Фиолетовая отделка
-swordpedestal.blue=Синяя отделка
-swordpedestal.brown=Коричневая отделка
-swordpedestal.green=Зелёная отделка
-swordpedestal.red=Красная отделка
-swordpedestal.black=Чёрная отделка
-
-OakSign.name=Дубовая красивая табличка
-SpruceSign.name=Еловая красивая табличка
-BirchSign.name=Берёзовая красивая табличка
-JungleSign.name=Красивая табличка из тропического дерева
-AcaciaSign.name=Красивая табличка из акации
-OldOakSign.name=Красивая табличка из тёмного дуба
-
-OakWorkbench.name=Дубовый красивый верстак
-SpruceWorkbench.name=Еловый красивый верстак
-BirchWorkbench.name=Берёзовый красивый верстак
-JungleWorkbench.name=Красивый верстак из тропического дерева
-AcaciaWorkbench.name=Красивый верстак из акации
-OldOakWorkbench.name=Красивый верстак из тёмного дуба
-
-tile.BiblioBell.name=Настольный звонок
-
-item.RecipeBook.name=Пустая книга-план
-item.SlottedBook.name=Вырезанная книга
-item.BigBook.name=Большая письменная книга
-item.HandDrill.name=Коловорот
 
 book.bold=Ж
 book.italic=К
@@ -301,104 +229,17 @@ book.title=Название
 book.description=Описание
 book.ingredients=Необходимые ингредиенты:
 book.overwriterecipe=Переписать текущую
-book.overwriterecipe2=книгу-план.
-book.saverecipe=Сохранить рецепт на
-book.saverecipe2=пустую книгу.
+book.overwriterecipe2=книгу рецепта.
+book.saverecipe=Сохранить рецепт в
+book.saverecipe2=чистую книгу.
 book.loadrecipe=Загрузить компоненты
 book.loadrecipe2=из инвентаря.
 book.areyousure=Вы уверены?
-book.areyousure2=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
+book.areyousure2=Нажатие "Да", навсегда заблокирует эту книгу от редактирования.
 book.setrecipename=Рецепт:
-gui.fancyworkbench=Красивый верстак
 
-gui.sign.left=Влево
-gui.sign.center=По центру
-gui.sign.right=Вправо
-
-gui.sign.black=Чёрный
-gui.sign.darkblue=Тёмно-синий
-gui.sign.darkgreen=Тёмно-зелёный
-gui.sign.darkaqua=Тёмно-водный
-gui.sign.darkred=Тёмно-красный
-gui.sign.darkpurple=Тёмно-фиолетовый
-gui.sign.gold=Золотой
-gui.sign.gray=Серый
-gui.sign.darkgray=Тёмно-серый
-gui.sign.blue=Синий
-gui.sign.green=Зелёный
-gui.sign.aqua=Водный
-gui.sign.red=Красный
-gui.sign.lightpurple=Светло-фиолетовый
-gui.sign.yellow=Жёлтый
-gui.sign.white=Белый
-
-gui.sign.tooltip1=Установите флажок или нажмите tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
-gui.sign.tooltip2=Установите флажок выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
-gui.sign.tooltip3=Установите флажок выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
-gui.sign.tooltip4=Установите флажок выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
-gui.sign.tooltip5=Откорректируйте размер блока.
-gui.sign.tooltip6=Откорректируйте поворот блока. Блоки могут быть повёрнуты влево, в центр или вправо. Предметы могут быть повёрнуты только влево или вправо.
-gui.sign.tooltip7=Откорректируйте позицию блока. Позиция также может быть скорректирована с помощью стрелок или клавишами WASD.
-gui.sign.tooltip8=Введите один из следующих номеров / букв после символа форматирования:
-gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'alt', чтобы добавить символ форматирования на выбранную строку.
-
-gui.sign.bold=Полужирный
-gui.sign.strikethrough=Зачёркнутый
-gui.sign.underline=Подчёркнутый
-gui.sign.italic=Курсивный
-
-gui.sign.scale=Размер текста
-gui.sign.format=Форматир.
-gui.sign.linenum=Строка#
-
-
-// All BiblioCraft 1.6 additions and changes/////////////////////
-gui.redbook.title=Название книги:
-gui.redbook.description.p1=Красная книга используется в комбинации с книжной полкой для подачи сигнала красного камня. При установке такой книги на полку, полкой будет выдан сигнал красного камня со всех сторон, кроме переда. Сила зависит от места книги на полке. 
-gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если красная книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдаёт сигнал в полную силу (15).
-
-
-AcaciaDesk.name=Письменный стол из акации
-OldOakDesk.name=Письменный стол из тёмного дуба
-AcaciaBookcase.name=Книжный шкаф из акации
-OldOakBookcase.name=Книжный шкаф из тёмного дуба
-AcaciaPotionShelf.name=Полка для зелий из акации
-OldOakPotionShelf.name=Полка для зелий из тёмного дуба
-AcaciaShelf.name=Полка из акации
-OldOakShelf.name=Полка из тёмного дуба
-AcaciaWeaponRack.name=Стеллаж для инструментов из акации
-OldOakWeaponRack.name=Стеллаж для инструментов из тёмного дуба
-AcaciaLabel.name=Бирка из акации
-OldOakLabel.name=Бирка из тёмного дуба
-AcaciaTable.name=Стол из акации
-OldOakTable.name=Стол из тёмного дуба
-AcaciaMapFrame.name=Рамка для карты из акации
-OldOakMapFrame.name=Рамка для карты из тёмного дуба
-AcaciaSeat.name=Стул из акации
-OldOakSeat.name=Стул из тёмного дуба
-OakCase.name=Дубовая витрина
-SpruceCase.name=Еловая витрина
-BirchCase.name=Берёзовая витрина
-JungleCase.name=Витрина из тропического дерева
-AcaciaCase.name=Витрина из акации
-OldOakCase.name=Витрина из тёмного дуба
-item.seatBack.AcaciaSeatBack.name=Спинка стула из акации
-item.seatBack.OldOakSeatBack.name=Спинка стула из тёмного дуба
 lighting.metalIron=Сделано из железа
 lighting.metalGold=Сделано из золота
-gui.typesetting.guiTitle=Типографский стол: Управление книгой
-gui.typesetting.pageOfpages=из
-gui.typesetting.public=Публично
-gui.typesetting.private=Личное
-gui.typesetting.delete=Удалить
-gui.typesetting.select=Выбрать
-gui.typesetting.nextPage=Следующая страница
-gui.typesetting.prevPage=Предыдущая страница
-gui.typesetting.exit=Выход
-gui.typesetting.enableDiscard=Отсеить
-// End of 1.6 additions ////////////////////////////
-
-
 
 // Gui stuff
 gui.armorstand=Стойка для брони
@@ -419,130 +260,313 @@ gui.compass.x=X:
 gui.compass.z=Z:
 gui.dinnerPlate=Обеденная тарелка
 gui.discRack=Стойка для пластинок
+gui.typesetting.guiTitle=Типографский стол: Управление книгой
+gui.typesetting.pageOfpages=из
+gui.typesetting.public=Публично
+gui.typesetting.private=Личное
+gui.typesetting.delete=Удалить
+gui.typesetting.select=Выбрать
+gui.typesetting.nextPage=Следующая страница
+gui.typesetting.prevPage=Предыдущая страница
+gui.typesetting.exit=Выход
+gui.typesetting.enableDiscard=Отсеить
+
+gui.redbook.title=Название книги:
+gui.redbook.description.p1=Красная книга используется в комбинации с книжной полкой для подачи сигнала красного камня. При установке такой книги на полку, полкой будет выдан сигнал красного камня со всех сторон, кроме переда. Сила зависит от места книги на полке. 
+gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если красная книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдаёт сигнал в полную силу (15).
+gui.fancyworkbench=Красивый верстак
+gui.sign.left=Влево
+gui.sign.center=По центру
+gui.sign.right=Вправо
+gui.sign.black=Чёрный
+gui.sign.darkblue=Темно-синий
+gui.sign.darkgreen=Темно-зеленый
+gui.sign.darkaqua=Темно-водный
+gui.sign.darkred=Темно-красный
+gui.sign.darkpurple=Темно-фиолетовый
+gui.sign.gold=Золотой
+gui.sign.gray=Серый
+gui.sign.darkgray=Темно-серый
+gui.sign.blue=Синий
+gui.sign.green=Зеленый
+gui.sign.aqua=Водный
+gui.sign.red=Красный
+gui.sign.lightpurple=Светло-фиолетовый
+gui.sign.yellow=Жёлтый
+gui.sign.white=Белый
+gui.sign.tooltip1=Установите флажок или нажмите Tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
+gui.sign.tooltip2=Установите флажок выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip3=Установите флажок выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
+gui.sign.tooltip4=Установите флажок выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip5=Откорректируйте размер блока.
+gui.sign.tooltip6=Откорректируйте поворот блока. Блоки могут быть повёрнуты влево, в центр или вправо. Предметы могут быть повёрнуты только влево или вправо.
+gui.sign.tooltip7=Откорректируйте позицию блока. Позиция также может быть скорректирована с помощью стрелок или клавишами WASD.
+gui.sign.tooltip8=Введите один из следующих номеров / букв после символа форматирования:
+gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'Alt', чтобы добавить символ форматирования на выбранную строку.
+gui.sign.bold=Полужирный
+gui.sign.strikethrough=Зачёркнутый
+gui.sign.underline=Подчёркнутый
+gui.sign.italic=Курсивный
+gui.sign.scale=Размер текста
+gui.sign.format=Формат
+gui.sign.linenum=Строка#
+gui.recipe.areyousure=Вы уверены?
+gui.recipe.finalize=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
+gui.recipe.description=Добавить описание.
+gui.catalog.close=Закрыть
+gui.catalog.count=Количество
+gui.catalog.names=Название Предмета / Блока
+gui.left=Лево
+gui.right=Право
+gui.craft=Создать
+gui.recipe.crafted=Успешно создано
+gui.recipe.failed=Удаление ингредиентов не удалось
+gui.recipe.invalid=Неверный рецепт
+gui.recipe.missing=Отсутствуют ингредиенты
+gui.recipe.wrong=Что-то пошло не так. Нет Книги рецептов с достоверными данными рецепта или чего-то ещё.
+gui.recipe.disabled=Сборка с книгами рецептов отключена.
+gui.clock.pulse=Пульс
+gui.clock.solid=Постоянно
+gui.atlas.zoom=Уровень масштабирования
+gui.atlas.center=Автоцентровка
+gui.atlas.create=Автосоздание
+gui.atlas.mapXcenter=Центр карты по X:
+gui.atlas.mapZcenter=Центр карты по Z:
+gui.atlas.mapZoom=Уровень масштабирования карты:
+gui.atlas.yes=Да
+gui.atlas.no=Нет
+gui.atlas.atlas=Атлас
+gui.atlas.select.tt1=Режим выбора меток
+gui.atlas.select.tt2=Наведите на метку
+gui.atlas.select.tt3=и ЛКМ для выбора
+gui.atlas.select.tt4=этой метки.
+gui.atlas.select.tt5=Зажмите Ctrl и наведите на карту,
+gui.atlas.select.tt6=чтобы увидеть координаты реального мира.
+gui.atlas.select.tt7=Нажмите Ctrl + ЛКМ
+gui.atlas.select.tt8=для выбора точки на карте.
+gui.atlas.edit.tt1=Режим правки меток
+gui.atlas.edit.tt2=Нажмите на метку, чтобы изменить
+gui.atlas.edit.tt3=её название и цвет
+gui.atlas.edit.tt4=или удалить её с карты.
+gui.atlas.edit.tt5=Чтобы быстро удалить метку,
+gui.atlas.edit.tt6=нажмите Shift + ЛКМ на метке.
+gui.atlas.add.tt1=Режим установки меток
+gui.atlas.add.tt2=Нажмите на карту, чтобы
+gui.atlas.add.tt3=добавить новую метку.
+gui.atlas.add.tt4=Появится меню, где Вы сможете
+gui.atlas.add.tt5=выбрать название и цвет.
+gui.atlas.add.tt6=Нажмите Shift + ЛКМ, чтобы
+gui.atlas.add.tt7=добавить на карту метку
+gui.atlas.add.tt8=случайного цвета и названия.
+gui.atlas.switchtoinv=Переключить на окно инвентаря.
+gui.atlas.switchtoatlas=Переключить на окно карты.
+gui.atlas.autocenter.tt1=Если включено, атлас будет
+gui.atlas.autocenter.tt2=искать в инвентаре подходящую
+gui.atlas.autocenter.tt3=карту, на которой указано
+gui.atlas.autocenter.tt4=Ваше местоположение на
+gui.atlas.autocenter.tt5=выбранном масштабе.
+gui.atlas.autocreate.tt1=Если включено, создаёт карты
+gui.atlas.autocreate.tt2=из чистых, забирая их из Вашего
+gui.atlas.autocreate.tt3=инвентаря. Если автоцентровка
+gui.atlas.autocreate.tt4=не может найти подходящую карту,
+gui.atlas.autocreate.tt5=то создаётся новая карта
+gui.atlas.autocreate.tt6=такого же масштаба, как и
+gui.atlas.autocreate.tt7=последняя, выбранная Вами.
+gui.atlas.autocreate.tt8=Для работы этого режима должна
+gui.atlas.autocreate.tt9=быть включена автоцентровка.
+gui.atlas.transfer=Перенос меток
+gui.atlas.transfer.cancel=Отмена
+gui.atlas.transfer.from=С атласа на рамку для карт
+gui.atlas.transfer.to=С рамки для карт на атлас
+gui.compass.currentlocation=Текущее местоположение
+gui.paintpress.page=Стр.
+gui.paintpress.of=из
+gui.testeritem.name=Тестер имени стака предмета
+gui.testeritem.display=Отображаемое имя:
+gui.testeritem.unlocal=Нелокализованное имя:
+gui.paintpress.transfer=Напечатать
+gui.paintpress.vanilla=Внутриигровые
+gui.paintpress.custom=Другие
+gui.painting.scale=Размер
+gui.painting.resolution=Разрешение
+gui.painting.aspectRatio=Соотношение сторон
+gui.painting.size=Размер картины
+gui.painting.rotation=Поворот
+gui.painting.corner=Главный угол
+gui.clock.chimesound=Звук звонка
+gui.clock.ticksound=Тикающий звук
+gui.clock.redstone=Красный камень
+gui.clock.chime=Звонок
+gui.clock.presets=Установки
 
 // In game messages, reading glasses stuff and other stuff
 enchant.reading=Чтение
 redbook.by=от
 plate.notValid=Не действительная
-typesetting.requires=Требуется:
-typesetting.levels=Levels
+typesetting.requires=Требуется
+typesetting.levels=Уровни
 typesetting.chase=Рама
-typesetting.bookSelect=Выбрать книгу.
+typesetting.bookSelect=Выберите книгу.
 print.ink=Чернила
 print.book=Книги
 screwgun.firstSeat=Выбран первый стул.
 screwgun.secondSeat=Попытка отсоединения/присоединения стульев.
 
 //Tape Measure Texts
-tape.measurenorthsouth=Измерение север/юг =
-tape.measureeastwest=Измерение восток/запад =
-tape.measureheight=Измерение высота =
+tape.measurenorthsouth=Измерение север/юг = 
+tape.measureeastwest=Измерение восток/запад = 
+tape.measureheight=Измерение высота = 
 tape.nomeasure=Нет измерений.
-tape.measure=Измерение =
+tape.measure=Измерение = 
 tape.startmeasure=Начало измерения.
 tape.mode0=Переключение режима на север/юг, восток/запад, и высоту.
 tape.mode1=Переключение режима на абсолютное измерение.
-lock.creativeonly=Только для творческого режима
+
+// Lock texts
+lock.creativeonly=Только творческий режим
 lock.notowner=Вы не владелец этого блока.
-lock.locked=Этот блок был закрыт.
-lock.unlocked=Этот блок был открыт.
+lock.locked=Этот блок был блокирован.
+lock.unlocked=Этот блок разблокирован.
 
 // Blocks
 CookieJar.name=Банка для печенья
 MarkerPole.name=Указатель
-tile.BiblioType.name=Типографский стол
-tile.BiblioPress.name=Печатный станок
-tile.BiblioArmorStand.name=Стойка для брони
-OakBookcase.name=Дубовый книжный шкаф
-SpruceBookcase.name=Еловый книжный шкаф
-BirchBookcase.name=Берёзовый книжный шкаф
-JungleBookcase.name=Книжный шкаф из тропического дерева
-OakPotionShelf.name=Дубовая полка для зелий
-SprucePotionShelf.name=Еловая полка для зелий
-BirchPotionShelf.name=Берёзовая полка для зелий
-JunglePotionShelf.name=Полка для зелий из тропического дерева
-OakShelf.name=Дубовая полка
-SpruceShelf.name=Еловая полка
-BirchShelf.name=Берёзовая полка
-JungleShelf.name=Полка из тропического дерева
-OakWeaponRack.name=Дубовый стеллаж для инструментов
-SpruceWeaponRack.name=Еловый стеллаж для инструментов
-BirchWeaponRack.name=Берёзовый стеллаж для инструментов
-JungleWeaponRack.name=Стеллаж для инструментов из тропического дерева
-OakLabel.name=Дубовая бирка
-SpruceLabel.name=Еловая бирка
-BirchLabel.name=Берёзовая бирка
-JungleLabel.name=Бирка из тропического дерева
-OakWritingDesk.name=Дубовый письменный стол
-SpruceWritingDesk.name=Еловый письменный стол
-BirchWritingDesk.name=Берёзовый письменный стол
-JungleWritingDesk.name=Письменный стол из тропического дерева
-OakTable.name=Дубовый стол
-SpruceTable.name=Еловый стол
-BirchTable.name=Берёзовый стол
-JungleTable.name=Стол из тропического дерева
-DiscRack.name=Стойка для пластинок
-DinnerPlate.name=Обеденная тарелка
-OakMapFrame.name=Дубовая рамка для карты
-SpruceMapFrame.name=Еловая рамка для карты
-BirchMapFrame.name=Берёзовая рамка для карты
-JungleMapFrame.name=Рамка для карты из тропического дерева
-OakSeat.name=Дубовый стул
-SpruceSeat.name=Еловый стул
-BirchSeat.name=Берёзовый стул
-JungleSeat.name=Стул из тропического дерева
+oakBookcase.name=Книжный шкаф из дуба
+spruceBookcase.name=Книжный шкаф из ели
+birchBookcase.name=Книжный шкаф из березы
+jungleBookcase.name=Книжный шкаф из тропического дерева
+oakPotionShelf.name=Полка для зелий из дуба
+sprucePotionShelf.name=Полка для зелий из ели
+birchPotionShelf.name=Полка для зелий из березы
+junglePotionShelf.name=Полка для зелий из тропического дерева
+oakShelf.name=Полка из дуба
+spruceShelf.name=Полка из ели
+birchShelf.name=Полка из березы
+jungleShelf.name=Полка из тропического дерева
+oakLabel.name=Деревянная бирка из дуба
+spruceLabel.name=Деревянная бирка из ели
+birchLabel.name=Деревянная бирка из березы
+jungleLabel.name=Деревянная бирка из тропического дерева
+oakTable.name=Письменный стол из дуба
+spruceTable.name=Письменный стол из ели
+birchTable.name=Письменный стол из березы
+jungleTable.name=Письменный стол из тропического дерева
+oakMapFrame.name=Рамка для карты из дуба
+spruceMapFrame.name=Рамка для карты из ели
+birchMapFrame.name=Рамка для карты из березы
+jungleMapFrame.name=Рамка для карты из тропического дерева
+oakSeat.name=Стул из дуба
+spruceSeat.name=Стул из ели
+birchSeat.name=Стул из березы
+jungleSeat.name=Стул из тропического дерева
+acaciaBookcase.name=Книжный шкаф из акации
+acaciaPotionShelf.name=Полка для зелий из акации
+acaciaShelf.name=Полка из акации
+acaciaLabel.name=Бирка из акации
+acaciaTable.name=Письменный стол из акации
+acaciaMapFrame.name=Рамка для карты из акации
+acaciaSeat.name=Стул из акации
+oakCase.name=Витрина из дуба
+spruceCase.name=Витрина из ели
+birchCase.name=Витрина из березы
+jungleCase.name=Витрина из тропического дерева
+acaciaCase.name=Витрина из акации
+oakClock.name=Часы из дуба
+spruceClock.name=Часы из ели
+birchClock.name=Часы из березы
+jungleClock.name=Часы из тропического дерева
+acaciaClock.name=Часы из акации
+oakFancyWorkbench.name=Красивый верстак из дуба
+spruceFancyWorkbench.name=Красивый верстак из ели
+birchFancyWorkbench.name=Красивый верстак из березы
+jungleFancyWorkbench.name=Красивый верстак из тропического дерева
+acaciaFancyWorkbench.name=Красивый верстак из акации
+
+WhiteTypewriter.name=Белая печатная машинка
+LightGrayTypewriter.name=Светло-серая печатная машинка
+GrayTypewriter.name=Серая печатная машинка
+BlackTypewriter.name=Чёрная печатная машинка
+RedTypewriter.name=Красная печатная машинка
+OrangeTypewriter.name=Оранжевая печатная машинка
+YellowTypewriter.name=Жёлтая печатная машинка
+LimeTypewriter.name=Лаймовая печатная машинка
+GreenTypewriter.name=Зелёная печатная машинка
+CyanTypewriter.name=Голубая печатная машинка
+LightBlueTypewriter.name=Светло-синяя печатная машинка
+BlueTypewriter.name=Синяя печатная машинка
+PurpleTypewriter.name=Пурпурная печатная машинка
+MagentaTypewriter.name=Фиолетовая печатная машинка
+PinkTypewriter.name=Розовая печатная машинка
+BrownTypewriter.name=Коричневая печатная машинка
+
+
+swordpedestal.name=Пьедестал для меча
+swordpedestal.white=Белая отделка
+swordpedestal.orange=Оранжевая отделка
+swordpedestal.magenta=Пурпурная отделка
+swordpedestal.yellow=Жёлтая отделка
+swordpedestal.lime=Лаймовая отделка
+swordpedestal.pink=Розовая отделка
+swordpedestal.gray=Серая отделка
+swordpedestal.cyan=Голубая отделка
+swordpedestal.purple=Purple отделка
+swordpedestal.blue=Синяя отделка
+swordpedestal.brown=Коричневая отделка
+swordpedestal.green=Зелёная отделка
+swordpedestal.red=Красная отделка
+swordpedestal.black=Чёрная отделка
 
 //lights
-whiteLantern.name=Золотой фонарь
-lightGrayLantern.name=Золотой фонарь
-grayLantern.name=Золотой фонарь
-blackLantern.name=Золотой фонарь
-redLantern.name=Золотой фонарь
-orangeLantern.name=Золотой фонарь
-yellowLantern.name=Золотой фонарь
-limeLantern.name=Золотой фонарь
-greenLantern.name=Золотой фонарь
-cyanLantern.name=Золотой фонарь
-lightBlueLantern.name=Золотой фонарь
-blueLantern.name=Золотой фонарь
-purpleLantern.name=Золотой фонарь
-magentaLantern.name=Золотой фонарь
-pinkLantern.name=Золотой фонарь
-brownLantern.name=Золотой фонарь
+whiteLantern.name=Красивый фонарь (белый)
+lightGrayLantern.name=Красивый фонарь (светло-серый)
+grayLantern.name=Красивый фонарь (серый)
+blackLantern.name=Красивый фонарь (чёрный)
+redLantern.name=Красивый фонарь (красный)
+orangeLantern.name=Красивый фонарь (оранжевый)
+yellowLantern.name=Красивый фонарь (жёлтый)
+limeLantern.name=Красивый фонарь (лаймовый)
+greenLantern.name=Красивый фонарь (зелёный)
+cyanLantern.name=Красивый фонарь (голубой)
+lightBlueLantern.name=Красивый фонарь (светло-синий)
+blueLantern.name=Красивый фонарь (синий)
+purpleLantern.name=Красивый фонарь (пурпурный)
+magentaLantern.name=Красивый фонарь (фиолетовый)
+pinkLantern.name=Красивый фонарь (розовый)
+brownLantern.name=Красивый фонарь (коричневый)
 
-whiteLamp.name=Светильник
-lightGrayLamp.name=Светильник
-grayLamp.name=Светильник
-blackLamp.name=Светильник
-redLamp.name=Светильник
-orangeLamp.name=Светильник
-yellowLamp.name=Светильник
-limeLamp.name=Светильник
-greenLamp.name=Светильник
-cyanLamp.name=Светильник
-lightBlueLamp.name=Светильник
-blueLamp.name=Светильник
-purpleLamp.name=Светильник
-magentaLamp.name=Светильник
-pinkLamp.name=Светильник
-brownLamp.name=Светильник
+whiteLamp.name=Красивая лампа (белая)
+lightGrayLamp.name=Красивая лампа (светло-серая)
+grayLamp.name=Красивая лампа (серая)
+blackLamp.name=Красивая лампа (чёрная)
+redLamp.name=Красивая лампа (красная)
+orangeLamp.name=Красивая лампа (оранжевая)
+yellowLamp.name=Красивая лампа (жёлтая)
+limeLamp.name=Красивая лампа (лаймовая)
+greenLamp.name=Красивая лампа (зелёная)
+cyanLamp.name=Красивая лампа (голубая)
+lightBlueLamp.name=Красивая лампа (светло-синяя)
+blueLamp.name=Красивая лампа (синяя)
+purpleLamp.name=Красивая лампа (пурпурная)
+magentaLamp.name=Красивая лампа (фиолетовая)
+pinkLamp.name=Красивая лампа (розовая)
+brownLamp.name=Красивая лампа (коричневая)
 
-lamp.hood0=Белый плафон
-lamp.hood1=Светло-серый плафон
-lamp.hood2=Серый плафон
-lamp.hood3=Чёрный плафон
-lamp.hood4=Красный плафон
-lamp.hood5=Оранжевый плафон
-lamp.hood6=Жёлтый плафон
-lamp.hood7=Лаймовый плафон
-lamp.hood8=Зелёный плафон
-lamp.hood9=Бирюзовый плафон
-lamp.hood10=Светло-синий плафон
-lamp.hood11=Синий плафон
-lamp.hood12=Фиолетовый плафон
-lamp.hood13=Сиреневый плафон
-lamp.hood14=Розовый плафон
-lamp.hood15=Коричневый плафон
+lamp.hood0=Белый плафон лампы
+lamp.hood1=Светло-серый плафон лампы
+lamp.hood2=Серый плафон лампы
+lamp.hood3=Чёрный плафон лампы
+lamp.hood4=Красный плафон лампы
+lamp.hood5=Оранжевый плафон лампы
+lamp.hood6=Жёлтый плафон лампы
+lamp.hood7=Лаймовый плафон лампы
+lamp.hood8=Зелёный плафон лампы
+lamp.hood9=Голубой плафон лампы
+lamp.hood10=Светло-синий плафон лампы
+lamp.hood11=Синий плафон лампы
+lamp.hood12=Пурпурный плафон лампы
+lamp.hood13=Фиолетовый плафон лампы
+lamp.hood14=Розовый плафон лампы
+lamp.hood15=Коричневый плафон лампы
 
 lantern.candle0=Белая свеча
 lantern.candle1=Светло-серая свеча
@@ -553,17 +577,17 @@ lantern.candle5=Оранжевая свеча
 lantern.candle6=Жёлтая свеча
 lantern.candle7=Лаймовая свеча
 lantern.candle8=Зелёная свеча
-lantern.candle9=Бирюзовая свеча
+lantern.candle9=Голубая свеча
 lantern.candle10=Светло-синяя свеча
 lantern.candle11=Синяя свеча
-lantern.candle12=Фиолетовая свеча
-lantern.candle13=Сиреневая свеча
+lantern.candle12=Пурпурная свеча
+lantern.candle13=Фиолетовая свеча
 lantern.candle14=Розовая свеча
 lantern.candle15=Коричневая свеча
 
 // Items
-item.tapeMeasure.name=Мерная лента
-item.tape.name=Катушка мерной ленты
+item.tapeMeasure.name=Рулетка
+item.tape.name=Катушка рулетки
 item.BiblioChase.name=Печатная рама
 item.PrintPlate.name=Печатная форма
 item.EnchantedPlate.name=Зачарованная форма
@@ -573,10 +597,16 @@ item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
 item.BiblioDrill.name=Шуруповёрт
 item.BiblioCreativeLock.name=Замок и ключ
-item.BiblioClipboard.name=Планшет с зажимом для бумаги
-item.seatBack.OakSeatBack.name=Дубовая спинка стула
-item.seatBack.SpruceSeatBack.name=Еловая спинка стула
-item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
-item.seatBack.JungleSeatBack.name=Спинка стула из тропического дерева
+item.BiblioClipboard.name=Планшет
 item.BiblioWayPointCompass.name=Координатный компас
-item.BiblioMapTool.name=Циркуль
+item.RecipeBook.name=Пустая книга рецептов
+item.SlottedBook.name=Сломанная книга
+item.BigBook.name=Большая написанная книга
+item.HandDrill.name=Ручная дрель
+item.plumbline.depth=Глубина
+item.PlumbLine.name=Отвес
+item.FramingSaw.name=Каркасная пила
+item.FramingBoard.name=Каркасная доска
+item.FramingSheet.name=Каркасный лист
+item.PaintingCanvas.name=Картинный холст
+item.TesterItem.name=Тестер имени стака предмета
